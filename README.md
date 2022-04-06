@@ -8,31 +8,48 @@ If you run into problems then please use the issues tab.
 ### You need:
 1. A home computer with administrative permissions
 2. A USB flash drive with 8GB+ storage (make sure it has nothing you dont want to delete)
-3. UnLanschool Program
+3. An internet connection
 
 ------------
 
-### Installing Hirens Boot CD (home comptuer)
+### Installing Hirens Boot CD (home comptuer) -- 1/3
 1. Go to [Hirens Boot CD Website](https://www.hirensbootcd.org/usb-booting/ "Hirens Boot CD Website")
-2. Follow the instructions (your basically burning Hirens Boot CD to a USB flash drive to boot from)
-3. Make sure to check the boxes next to "Format Selected USB Device" and "Copy ISO Content to USB Device"
+2. Follow the instructions on the Hirens Boot CD Website **(your basically burning Hirens Boot CD to a USB flash drive to boot from)**
+3. Make sure to check the boxes next to **"Format Selected USB Device"** and **"Copy ISO Content to USB Device"**
 
 ------------
 
 
-### Booting From Hirens Boot CD (school computer)
-1. Make sure the USB flash drive that now contains Hirens Boot CD is plugged into the computer
+### Booting From Hirens Boot CD (school computer) -- 2/3
+1. **Make sure the USB flash drive that now contains Hirens Boot CD is plugged into the computer**
 2. Restart the computer BUT hold down left shift when clicking restart
-3. When blue screen pops up do: Use a Device ---> EFI USB Device (if you dont see this then edit your UEFI/BIOS settings by doing Troubleshoot ---> Advanced Options ---> UEFI Firmware Settings and then poke around there until you find a settings to allow USB booting)
+3. When blue screen pops up do: **Use a Device ---> EFI USB Device** (**if you dont see this then** **edit your UEFI/BIOS settings by doing Troubleshoot ---> Advanced Options ---> UEFI Firmware Settings** **and then poke around there until you find a settings to allow USB booting)**
 4. Wait until it gets to the desktop
-5. Click on the little wifi triangle in the bottom right corner and connect to your internet
-6. [Download UnLanschool Program Folder](https://drive.google.com/drive/folders/1AMz3FkBD0HYXeZvaA0fw0_TRor7Rf-G8?usp=sharing "Download UnLanschool Program Folder")
-7. Find and use the executable inside the folder (UnLanschool.exe)
+5. On desktop, click the Utilities folder
+6. Then **Security folder ---> Passwords folder ---> NT Password Edit**
+7. Click open button to open the SAM file
+8. Go through all the admin accounts **(or any account that has administrative permissions)** and unlock them **(like admin, Administrator, etc.)**
+9. Remember the admin account usernames, **this will be important later**
+10. Exit and save changes
+12. Shutdown
+12. Unplug USB flash drive
 
 ------------
 
 
-# I am not responsible for misuse of this.
+### Using UnLanschool (school computer) -- 3/3
+1. Boot up school computer **without the USB flash drive**
+2. **Login to the admin account**
+3. [Download UnLanschool Folder](https://drive.google.com/drive/folders/1AMz3FkBD0HYXeZvaA0fw0_TRor7Rf-G8?usp=sharing "Download UnLanschool Folder")
+4. Unzip the folder
+5. Use the executable, you will be confronted by an admin prompt **but your logged into the admin account** so you can just allow it
+6. Use the buttons on the program
+
+------------
+
+
+# I am not responsible for misuse of this
+#### I do not condone or advise or endorse any misuse or un-ethical use of this
 
 ------------
 
