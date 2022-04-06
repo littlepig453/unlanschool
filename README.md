@@ -12,7 +12,7 @@ If you run into problems then please use the issues tab.
 
 ------------
 
-### Installing Hirens Boot CD
+### Installing Hirens Boot CD (home comptuer)
 1. Go to [Hirens Boot CD Website](https://www.hirensbootcd.org/usb-booting/ "Hirens Boot CD Website")
 2. Follow the instructions (your basically burning Hirens Boot CD to a USB flash drive to boot from)
 3. Make sure to check the boxes next to "Format Selected USB Device" and "Copy ISO Content to USB Device"
@@ -20,7 +20,7 @@ If you run into problems then please use the issues tab.
 ------------
 
 
-### Booting From Hirens Boot CD
+### Booting From Hirens Boot CD (school computer)
 1. Make sure the USB flash drive that now contains Hirens Boot CD is plugged into the computer
 2. Restart the computer BUT hold down left shift when clicking restart
 3. When blue screen pops up do: Use a Device ---> EFI USB Device (if you dont see this then edit your UEFI/BIOS settings by doing Troubleshoot ---> Advanced Options ---> UEFI Firmware Settings and then poke around there until you find a settings to allow USB booting)
