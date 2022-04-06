@@ -25,12 +25,9 @@ If you run into problems then please use the issues tab.
 2. Restart the computer BUT hold down left shift when clicking restart
 3. When blue screen pops up do: Use a Device ---> EFI USB Device (if you dont see this then edit your UEFI/BIOS settings by doing Troubleshoot ---> Advanced Options ---> UEFI Firmware Settings and then poke around there until you find a settings to allow USB booting)
 4. Wait until it gets to the desktop
-5. Click on 'Utilities' folder ---> Security ---> Passwords ---> NT Password Edit then click open and go through all accounts and click unlock on all accounts
-6. Exit NT Password Edit
-7. Shutdown the computer
-8. Unplug the USB flash drive
-9. Log in to the administrative account using username (you wont need a password)
-10. Download the repo and use the executable in UnLanschool-Files directory
+5. Click on the little wifi triangle in the bottom right corner and connect to your internet
+6. [Download UnLanschool Program Folder](https://drive.google.com/drive/folders/1AMz3FkBD0HYXeZvaA0fw0_TRor7Rf-G8?usp=sharing "Download UnLanschool Program Folder")
+7. Find and use the executable inside the folder (UnLanschool.exe)
 
 ------------
 
