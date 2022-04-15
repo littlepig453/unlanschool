@@ -1,6 +1,6 @@
 # UnLanschool
 If you run into problems then please use the issues tab.
-## ONLY COMPATIBLE WITH LANSCHOOL AIR
+## ONLY COMPATIBLE WITH LANSCHOOL AIR ON WINDOWS
 
 ------------
 
